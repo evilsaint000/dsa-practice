@@ -1,0 +1,1 @@
+deleteAtPos(head,tail,6);
